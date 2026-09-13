@@ -109,7 +109,7 @@ const STATIONS = [
     eliza:["Farbe aus Pflanzen. Ich bestehe nur aus Schwarz auf Weiß."] },
 
   { id:"faerberhuette", name:"Färberhütte", icon:"🧵", pos:{x:61.1, y:39.7},
-    image:"assets/map/katazome-radieschen.jpg",
+    image:"assets/images/katazome-radieschen.jpg",
     eliza:["藍染め"],
     note:{ label:"Circular Blue", content:"Katazome Experiment",
            link:"https://nerding.at/circular_blue/katazome-experiment/", linkLabel:"Circular Blue →" } },
