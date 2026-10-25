@@ -121,8 +121,8 @@ header.site .meta .dot{ width:7px; height:7px; border-radius:50%; background:var
 }
 .station-pin.start{
   width:34px; height:34px;
-  background:var(--berry); border:2px solid var(--paper); border-radius:50%;
-  box-shadow:0 0 0 2px var(--berry);
+  background:transparent; border:none; border-radius:50%;
+  box-shadow:none;
 }
 .station-pin.pulsing{
   box-shadow:0 0 0 0 rgba(74,103,65,0.5);
